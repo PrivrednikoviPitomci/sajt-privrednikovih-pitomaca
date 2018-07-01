@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "body-parser": "^1.17.2",
+    "caniuse-lite": "^1.0.30000839",
     "cookie-parser": "^1.4.3",
     "debug": "~2.6.3",
     "express": "^4.15.3",
@@ -12,7 +13,8 @@
     "mongoose": "^5.0.11",
     "morgan": "^1.8.2",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "save": "^2.3.2"
   },
   "devDependencies": {
     "concurrently": "^3.5.0",

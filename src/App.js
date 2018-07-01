@@ -4,7 +4,6 @@ import logo from './logo.svg';
 import Pitomci from './components/Pitomci';
 
 class App extends Component {
- 
 
   render() {
     return (
